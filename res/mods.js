@@ -453,7 +453,7 @@ const mods = [
         "versions": [ "1.8.9" ]
     },
     {
-        "name": "Zombie Lag Fix",
+        "name": "Zombie Lag Fix"
         "links": {
             "github": "https://github.com/baraclese/zombie-lag-fix",
         },
